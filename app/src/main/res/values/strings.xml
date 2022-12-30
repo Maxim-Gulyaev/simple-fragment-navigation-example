@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="quote_text">Some quote here</string>
+    <string name="btn_launch_next">launch next</string>
+    <string name="btn_go_back">go back</string>
+    <string name="screen_label">Screen #%1$d</string>
+</resources>
